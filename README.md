@@ -21,7 +21,9 @@ My table name is Testseries
 Step4 : Create lambda function
 
 a> go lambd function services and create lambda function from scratch and the language is python.
+
 b> choose existing role that we are created in step1.
+
 c> write the lambda logic that are mention below.
 
 ```
@@ -53,5 +55,8 @@ def lambda_handler(event, context):
         except Exception as e:
             print("end of the file")
 ```
+
 Step5 : save lambda function and test it.
+
+
 step6 : reload your table coontent load in your db table.

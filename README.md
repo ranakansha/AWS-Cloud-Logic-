@@ -19,6 +19,7 @@ Step3 : Create dynamodb table where Empid is primary key
 My table name is Testseries
 
 Step4 : Create lambda function
+[fdvbjhfvb]
 
 [a> go lambd function services and create lambda function from scratch and the language is python ]
 [b> choose existing role that we are created in step1]

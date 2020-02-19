@@ -1,5 +1,7 @@
-# AWS-Cloud-Logic
-Import AWS S3 Excel file data into Dynamo db in AWS Cloud
+
+##Import AWS S3 Excel file data into Dynamo db in AWS Cloud
+
+
 Step 1 : CREATE IAM ROLE FOR various policy
 --------------------------------------------------
 a> S3FullAcess

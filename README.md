@@ -8,8 +8,6 @@ C> LambdaBasicExecutionrole
 
 Step 2 : Create S3 Bucket and Upload csv file into s3
   The Panes Name of my csv ile is :
-  
+----------------------------------------
   empid,name,salary,parttime
-  1,akansha,137483,yes
-  2,rana,2332434,yes
- 
+-----------------------------------

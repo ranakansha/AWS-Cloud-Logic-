@@ -2,16 +2,19 @@
 
 Step 1 : CREATE IAM ROLE FOR various policy
 --------------------------------------------------
+```
 a> S3FullAcess
 b> dynamodbFUullAcess
 C> LambdaBasicExecutionrole
 
+```
 Step 2 : Create S3 Bucket and Upload csv file into s3
   The Panes Name of my csv ile is :
+  ```
 ----------------------------------------
   empid |name  |salary  | parttime
 ----------------------------------------
-
+```
 Step3 : Create dynamodb table where Empid is primary key
 My table name is Testseries
 

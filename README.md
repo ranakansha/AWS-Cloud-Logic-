@@ -20,9 +20,9 @@ My table name is Testseries
 
 Step4 : Create lambda function
 
-a> go lambd function services and create lambda function from scratch and the language is python 
-b> choose existing role that we are created in step1
-c> write the lambda logic that are mention below
+[a> go lambd function services and create lambda function from scratch and the language is python ]
+[b> choose existing role that we are created in step1]
+[c> write the lambda logic that are mention below]
 ```
 import boto3
 s3_client = boto3.client('s3')

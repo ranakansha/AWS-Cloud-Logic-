@@ -20,8 +20,6 @@ Step4 : Create lambda function
 a> go lambd function services and create lambda function from scratch and the language is python 
 b> choose existing role that we are created in step1
 c> write the lambda logic that are mention below
-Step5 : save lambda function and test it.
-step6 : reload your table coontent load in your db table.
 
 ```python
 import boto3
@@ -53,3 +51,5 @@ def lambda_handler(event, context):
             print("end of the file")
      ```
      
+Step5 : save lambda function and test it.
+step6 : reload your table coontent load in your db table.
